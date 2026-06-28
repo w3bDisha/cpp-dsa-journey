@@ -1,7 +1,6 @@
 # C++ & DSA Journey 🚀
 
 Hi, I'm Disha.
-
 I'm currently learning C++ and Data Structures & Algorithms while pursuing SYBCA.
 
 ## Goals
